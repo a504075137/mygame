@@ -21,7 +21,9 @@ $(function(){
 	})
 	
 	$(".reStart").click(function(){
+		
 		$(".mask").stop().fadeOut(100);
+		$(".score").text(0)
 		progressHandler()
 		startwolfAnimation()
 		
