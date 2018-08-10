@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 哈哈牛逼噢
 
 You can use the [editor on GitHub](https://github.com/a504075137/mygame/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
