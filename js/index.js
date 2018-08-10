@@ -110,7 +110,7 @@ $(function(){
 			}
 			$wolfImage.attr("src", wolfType[wolfIndex++]);
 
-		},300);
+		},150);
 		
 		//添加到界面
 		$(".container").append($wolfImage)
